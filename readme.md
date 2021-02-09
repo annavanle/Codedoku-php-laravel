@@ -14,5 +14,5 @@ This web is a place to share code learing experience in Moblie, Web and others, 
 
 ## Setting 
 Codedoku is created by Laravel 5.3 and PHP 7.3 
-The project can run with MAMP (iOS ) or XAMPP (windows)
+The project can run with MAMP (MAC ) or XAMPP (windows)
 
